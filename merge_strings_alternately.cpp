@@ -2,7 +2,7 @@
 Merge the strings by adding letters in alternating order, starting with word1. 
 If a string is longer than the other, append the additional letters onto the end of the merged string.
 Return the merged string.*/
-#include <string>;
+#include <string>
 class Solution {
 public:
     string mergeAlternately(string word1, string word2) {
